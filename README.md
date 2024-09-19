@@ -2,7 +2,7 @@
 
 Due to GitHub's file size limits, we choose to store the trained model on https://drive.google.com/drive/folders/1cQVmT3uik298FnZOuZcAMtlaZJPfiID_?usp=drive_link
 
-# Pretrained mode
+# Pretrained model
 
 You should download pretrain model from relevant github repository.
 
